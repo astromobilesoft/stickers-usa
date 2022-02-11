@@ -4,7 +4,7 @@
    "sticker_packs":[
       {
          "identifier":"superbowl1",
-         "name":"Superbowl (1)",
+         "name":"Super Bowl (1)",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -92,7 +92,7 @@
       },
       {
          "identifier":"superbowl2",
-         "name":"Superbowl (2)",
+         "name":"Super Bowl (2)",
          "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "publisher_website":"",
